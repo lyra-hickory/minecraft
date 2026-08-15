@@ -60,6 +60,14 @@ I feel like shulkers shouldn't be hidden behind beating the enderdragon~
 Fire proofing!
 
 
+### Chickens Shed Feathers
+
+[modrinth](https://modrinth.com/datapack/chickens-drop-feathers)
+
+
+No need to kill them now for feathers!
+
+
 ## Backlog
 
 - [ ] Expand this section 
