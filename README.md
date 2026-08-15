@@ -9,6 +9,12 @@ The idea is that this might grow into a bigger project with time, as I opt to sp
 [Overview](#overview)
 
 
+[Server Setup](docs/server-setup.md)
+
+
+[Datapacks](#datapacks)
+
+
 [Backlog](#backlog)
 
 
@@ -27,12 +33,39 @@ The aim is to focus on getting this Minecraft server production-grade, between s
 
 I am hoping to expand this to multiple worlds, with the ability to switch between, but for now it is remaining as a single world game.
 
+## Datapacks
+
+
+### Dynamic Lights
+
+[modrinth](https://modrinth.com/datapack/dynamic-torches)
+
+
+This is for better lighting along with client-side shaders
+
+
+### Early Game Shulker
+
+[modrinth](https://modrinth.com/datapack/early-game-shulker)
+
+
+I feel like shulkers shouldn't be hidden behind beating the enderdragon~
+
+
+### Fireproof Bundles
+
+[modrinth](modrinth.com/datapack/fire-proofing)
+
+
+Fire proofing!
+
+
 ## Backlog
 
-- [ ] 
+- [ ] Expand this section 
  
 
 ## Wishlist
 
-- [ ]
+- [ ] Expand this section
 
